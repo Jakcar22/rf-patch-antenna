@@ -1,25 +1,24 @@
 # 2.4 GHz Microstrip Patch Antenna
-A microstrip patch antenna designed for 2.4 GHz operation on FR4 substrate, designed as part of a self-directed RF hardware project targeting aerospace and defense applications.
-Design Goals
 
-Target frequency: 2.4 GHz
-Substrate: FR4 (εr ≈ 4.4)
-Feed: Inset microstrip feed
-Impedance: 50Ω
+A microstrip patch antenna designed for 2.4 GHz operation on FR4 substrate, built as part of a self-directed RF hardware project targeting aerospace and defense applications.
 
-Tools Used
+## Design Goals
+- Target frequency: 2.4 GHz
+- Substrate: FR4 (εr ≈ 4.4)
+- Feed: Inset microstrip feed
+- Impedance: 50Ω
 
-KiCAD — PCB layout and design
-LTspice — simulation
+## Tools Used
+- KiCAD — PCB layout and design
+- LTspice — simulation
 
-Status
+## Status
+- [ ] Patch dimensions calculated
+- [ ] KiCAD layout complete
+- [ ] PCB ordered from OSHPark
+- [ ] Board assembled
+- [ ] VNA measurements taken
+- [ ] Simulation vs measured comparison complete
 
- Patch dimensions calculated
- KiCAD layout complete
- PCB ordered from OSHPark
- Board assembled
- VNA measurements taken
- Simulation vs measured comparison complete
-
-Results
-(Will be updated as measurements are taken)
+## Results
+*(Will be updated as measurements are taken)*
